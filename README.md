@@ -8,7 +8,15 @@ And just launch Roblox
 ## Custom Compiling
 Download the source  
 Run Build.bat you must have python and other packages installed!  
-Tested With PyInstaller 5.4.1 and Python 3.9  
+Tested With PyInstaller 5.5 and Python 3.10  
 ## Info
 Should be safe to use  
 Sadly it doesnt have Roblox auto update  
+### Tested With
+
+| Thing | Working            |
+| ------- | ------------------ |
+| Python 3.9 | ✅ |
+| Python 3.10 | ✅ |
+| PyInstaller 5.4.1    | ✅ |
+| PyInstaller 5.5    | ✅ |
